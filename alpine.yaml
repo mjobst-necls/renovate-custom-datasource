@@ -1,0 +1,7 @@
+packages:
+  - name: bash
+    versions:
+      - 5.2.15-r0
+  - name: bash-doc
+    versions:
+      - 5.2.15-r1
