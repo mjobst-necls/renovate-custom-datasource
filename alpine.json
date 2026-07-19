@@ -1,20 +1,12 @@
 {
-  "packages": [
-    {
-      "name": "bash",
-      "releases": [
-        {
-          "version": "5.2.15-r0"
-        }
-      ]
-    },
-    {
-      "name": "bash-cli",
-      "releases": [
-        {
-          "version": "5.2.19-r0"
-        }
-      ]
-    }
-  ]
+  "bash": {
+    "releases": [{
+      "version": "5.2.15-r0"
+    }]
+  },
+  "bash-cli": {
+    "releases": [{
+      "version": "5.2.19-r0"
+    }]
+  }
 }
