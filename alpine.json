@@ -1,7 +1,7 @@
 {
   "bash": {
     "releases": [{
-      "version": "5.2.15-r0"
+      "version": "5.2.15-r1"
     }]
   },
   "bash-cli": {
